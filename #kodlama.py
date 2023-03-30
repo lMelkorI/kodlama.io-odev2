@@ -39,6 +39,4 @@ def giriş():
             case 5:
                 print("sistem kapatılıyor")
                 Key="baybay"
-
-
 giriş()
